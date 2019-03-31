@@ -3,7 +3,15 @@
 }
 .cx-foto-gatinha{
     text-align: center;
+    display: flex;
 }
-.cx-foto-gatinha img{
-    max-height: 300px;
+.foto-gatinha{
+    width: 50%;
+}
+.foto-amora{
+    cursor: pointer;
+    width: 80%;
+}
+.contador-cliques{
+    text-align: center;
 }
