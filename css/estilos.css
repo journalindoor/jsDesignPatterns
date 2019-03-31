@@ -1,17 +1,26 @@
-.titulo{
+.titulo {
     text-align: center;
 }
+
 .cx-foto-gatinha{
-    text-align: center;
-    display: flex;
+    background: #ccc;
+    width: 25%;
 }
-.foto-gatinha{
+
+.cx-foto-gatinha>ul {
+    list-style: none;
+    margin: 0;
+}
+
+.foto-gatinha {
     width: 50%;
 }
-.foto-amora{
+
+.foto-amora {
     cursor: pointer;
     width: 80%;
 }
-.contador-cliques{
+
+.contador-cliques {
     text-align: center;
 }

@@ -11,7 +11,7 @@ for (i = 0; i < fotoAmora.length; i++) {
 }
 
 function nomeGatinha() {
-    let nomes = ["Amora Jr", "Amora Tepha"];
+    let nomes = ["Junior", "Tepha", "Carinhosa", "Curiosa", "Ajudante"];
     for (i = 0; i < fotoAmora.length; i++) {
         let cxNome = document.createElement("h2");
         cxNome.className = "nome-gatinha";
