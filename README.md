@@ -8,6 +8,6 @@ Fazer um template com uma foto de gato. Ao clicar na foto incrementar um contado
 
 ## Parte 2 - Cat Clicker Duo
 
-Adicionar mais uma foto de gato, dessa vez mostrando o nome do gato acima da foto e o número de cliques em algum lugar da tela. Ao clicar na foto, incrementar o contador.
+Adicionar mais uma foto de gato, dessa vez mostrando o nome do gato e o número de cliques de cada foto em separado. Ao clicar na foto, incrementar o contador.
 
 Obs.: Inserir o nome do gato através de Javascript, sem escrever direto no HTML.
